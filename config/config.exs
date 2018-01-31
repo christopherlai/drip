@@ -10,7 +10,7 @@ use Mix.Config
 
 # You can configure your application as:
 #
-config :drip, api_key: "ee94c463fa7e96571e59e1400ab0d916"
+# config :drip, api_key: ""
 #
 # and access this configuration in your application as:
 #
